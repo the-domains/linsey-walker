@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T06:38:39.766Z'
-dateModified: '2015-12-24T06:38:36.153Z'
+datePublished: '2015-12-24T06:40:10.898Z'
+dateModified: '2015-12-24T06:40:01.399Z'
 title: Artist Statement
 author: []
 sourcePath: _posts/2015-12-24-i-am-a-photographic-artist-drawn-to-the-documentary-style-o.md
