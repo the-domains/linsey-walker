@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T07:06:27.887Z'
-dateModified: '2015-12-24T07:06:24.677Z'
+datePublished: '2015-12-24T12:30:26.322Z'
+dateModified: '2015-12-24T07:06:27.887Z'
 title: Artist Statement
 author: []
 sourcePath: _posts/2015-12-24-artist-statement.md
