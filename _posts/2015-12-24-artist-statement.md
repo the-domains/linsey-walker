@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://flic.kr/p/kdiA5t'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T07:04:09.100Z'
-dateModified: '2015-12-24T06:54:29.631Z'
+datePublished: '2015-12-24T07:06:27.887Z'
+dateModified: '2015-12-24T07:06:24.677Z'
 title: Artist Statement
 author: []
 sourcePath: _posts/2015-12-24-artist-statement.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: MediaObject
+url: artist-statement/index.html
+_type: WebPage
 
 ---
 Artist Statement
