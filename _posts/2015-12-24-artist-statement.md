@@ -1,28 +1,28 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://flic.kr/p/kdiA5t'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T06:43:41.644Z'
-dateModified: '2015-12-24T06:43:21.930Z'
+datePublished: '2015-12-24T07:04:09.100Z'
+dateModified: '2015-12-24T06:54:29.631Z'
 title: Artist Statement
 author: []
+sourcePath: _posts/2015-12-24-artist-statement.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-24-artist-statement.md
-published: true
-url: artist-statement/index.html
-_type: Article
+_type: MediaObject
 
 ---
-# Artist Statement
+Artist Statement
 ![Self Portrait](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fa142d3-20a4-4f5c-847e-c5dd260ba1a3.jpg)
 
 I am a photographic artist, drawn to the
