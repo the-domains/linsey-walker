@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T06:30:11.192Z'
-dateModified: '2015-12-24T06:30:08.198Z'
-title: Artist Statement
+datePublished: '2015-12-24T06:31:59.462Z'
+dateModified: '2015-12-24T06:31:48.692Z'
+title: "I am a\_photographic artist, drawn to the\ndocumentary style of photography. Meaning that I don’t pre-visualize my images,\nbut rather find them through the process of wandering."
 author: []
 sourcePath: _posts/2015-12-24-i-am-a-photographic-artist-drawn-to-the-documentary-style-o.md
 published: true
@@ -24,12 +24,16 @@ _type: Article
 ---
 # ![Self Portrait](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00862479-1321-469e-b461-e707bfe8decf.jpg)
 
-I am a photographic artist, drawn to the
+# I am a photographic artist, drawn to the
 documentary style of photography. Meaning that I don't pre-visualize my images,
-but rather find them through the process of wandering.  
-Landscapes, architecture, and lost and lonely
+but rather find them through the process of wandering.
+
+# Landscapes, architecture, and lost and lonely
 objects often inspire me. I seek to capture the essence, or soul, of my
 subjects, and try to steer clear of romantic clichés and show local
-flavour without compromising my subjects to cultural stereotypes.  
+flavour without compromising my subjects to cultural stereotypes.
+
+# 
+
 My process is intuitive in nature, and my work
 is a reflection of self, in response to place.
