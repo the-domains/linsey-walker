@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Linsey Walker]]></title>
-        <description><![CDATA[Linsey Walker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Linsey Walker - Photographic Artist]]></title>
+        <description><![CDATA[Linsey Walker - Photographic Artist]]></description>
+        <link>https://thegrid.ai/linsey-walker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 06:21:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 06:27:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/linsey-walker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I am a photographic artist, drawn to the
 documentary style of photography. Meaning that I don’t pre-visualize my images,
 but rather find them through the process of wandering.]]></title>
             <description><![CDATA[<article><h1></h1><p>Self Portrait</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00862479-1321-469e-b461-e707bfe8decf.jpg"></article>]]></description>
-            <link>undefinedi-am-a-photographic-artist-drawn-to-the-documentary-style-o/index.html</link>
+            <link>https://thegrid.ai/linsey-walker/i-am-a-photographic-artist-drawn-to-the-documentary-style-o/index.html</link>
             <guid isPermaLink="false">71e5efeb-8249-426a-8a45-03b1598395c5</guid>
-            <pubDate>Thu, 24 Dec 2015 06:21:16 GMT</pubDate>
+            <pubDate>Thu, 24 Dec 2015 06:27:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
