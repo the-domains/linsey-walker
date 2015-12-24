@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T06:27:15.306Z'
-dateModified: '2015-12-24T06:27:10.477Z'
+datePublished: '2015-12-24T06:28:27.709Z'
+dateModified: '2015-12-24T06:28:23.713Z'
 title: "I am a\_photographic artist, drawn to the\ndocumentary style of photography. Meaning that I don’t pre-visualize my images,\nbut rather find them through the process of wandering."
 author: []
 sourcePath: _posts/2015-12-24-i-am-a-photographic-artist-drawn-to-the-documentary-style-o.md
